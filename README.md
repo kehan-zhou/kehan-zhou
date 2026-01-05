@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Kehan Zhou 👋
 
-<!--
-**kehan-zhou/kehan-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# / .NET developer focused on computer graphics, geometry, and CAD-style editors.  
+I build editor-oriented tools that emphasize precision, clarity, and long-term maintainability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Technical Direction
+
+My work centers around building geometry-heavy editing tools, including:
+
+- CAD-style editors and 2D geometry tools
+- Editor input systems with predictable interaction models
+- Domain-driven separation between geometry logic and presentation
+
+---
+
+## 🌍 Open Source Involvement
+
+Contributor to open-source projects across multiple ecosystems, including:
+
+- Apache Software Foundation
+- Microsoft
+- Intel
+
+My contributions focus on code quality, tooling improvements, and long-term maintainability.
+
+---
+
+## 🛠 Technical Focus
+
+- Language: C#
+- Platform: .NET
+- UI Frameworks: WinForms
+- Domains: Computer Graphics, Geometry, CAD Editors
+- Tooling: Git, GitHub
+
+---
+
+## ✨ Engineering Philosophy
+
+I prefer designs that minimize surprise and maximize clarity.  
+In geometry-heavy editors, correctness and predictability matter more than novelty.
