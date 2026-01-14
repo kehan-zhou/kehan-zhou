@@ -1,43 +1,30 @@
 # Hi, I'm Kehan Zhou 👋
 
-C# / .NET developer focused on computer graphics, geometry, and CAD-style editors.  
-I build editor-oriented tools that emphasize precision, clarity, and long-term maintainability.
+I build software where geometry, precision, and structure actually matter.
+
+Mostly working with C# / .NET, focusing on editor-style tools, graphics, and systems designed to evolve over time.
 
 ---
 
-## 🧭 Technical Direction
+## What I care about
 
-My work centers around building geometry-heavy editing tools, including:
-
-- CAD-style editors and 2D geometry tools
-- Editor input systems with predictable interaction models
-- Domain-driven separation between geometry logic and presentation
-
----
-
-## 🌍 Open Source Involvement
-
-Contributor to open-source projects across multiple ecosystems, including:
-
-- Apache Software Foundation
-- Microsoft
-- Intel
-
-My contributions focus on code quality, tooling improvements, and long-term maintainability.
+- Geometry-heavy editors and CAD-like tools
+- Clear interaction models and predictable behavior
+- Separating domain logic from presentation
+- Codebases that remain understandable after years
 
 ---
 
-## 🛠 Technical Focus
+## Currently
 
-- Language: C#
-- Platform: .NET
-- UI Frameworks: WinForms
-- Domains: Computer Graphics, Geometry, CAD Editors
-- Tooling: Git, GitHub
+- Exploring 2D editors and geometry infrastructure
+- Refining architecture for long-term extensibility
+- Contributing to open source when it aligns with tooling quality
 
 ---
 
-## ✨ Engineering Philosophy
+## Philosophy
 
-I prefer designs that minimize surprise and maximize clarity.  
-In geometry-heavy editors, correctness and predictability matter more than novelty.
+Correctness > cleverness  
+Clarity > abstraction  
+Long-term maintainability > short-term speed
